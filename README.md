@@ -1,2 +1,2 @@
 # enrichment_tool
-Building a functional enrichment tool during BDSD
+Tutorial on building a custom functional enrichment tool during Biomedical Data Science Day 2020
