@@ -11,5 +11,3 @@ Tutorial on building a custom functional enrichment tool during Biomedical Data 
 - Gene list: https://github.com/maggiecrow/DEprior/blob/master/DE_Prior.txt
 - EBI GWAS: https://www.ebi.ac.uk/gwas/api/search/downloads/full
 - Human Gene Info: https://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz
-
-[embed]https://github.com/tstoeger/enrichment_tool/blob/master/handout.pdf[/embed]
